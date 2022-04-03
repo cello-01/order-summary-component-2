@@ -158,8 +158,8 @@ body .parent-conteiner .conteiner .cancel_btm:hover {
     background-image: url(/pattern-background-desktop.svg);
   }
   body .parent-conteiner {
-    max-width: 450px;
-    max-height: 850px;
+    max-width: 400px;
+    max-height: 800px;
   }
 }
 /*# sourceMappingURL=style.css.map */
